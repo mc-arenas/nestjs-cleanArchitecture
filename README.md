@@ -53,13 +53,3 @@ $ docker build -t kubide .
 # docker run
 $ docker run -e JWT_SECRET=secret -e DATABASE_PASSWORD=password -p 8080:3000 kubide
 ```
-
-## Comentarios 
-
-Tener en cuenta que será necesario cambiar el nombre del host en el fichero `database.providers.ts`
-
-Para poder realizar las peticiones de forma fácil se adjunta fichero con la colección de Postman.
-
-Se han activado las cors y accediendo a /api se puede ver un swagger desplegado.
-
-No he tenido mucho tiempo así que no he contemplado las notificaciones.
