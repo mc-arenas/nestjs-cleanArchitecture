@@ -22,7 +22,12 @@
 
 ## Description
 
-Stack: [Nest](https://github.com/nestjs/nest), Sequelize (ORM), JWT.
+Stack:
+1. [Nest](https://github.com/nestjs/nest)
+2. Sequelize (ORM)
+3. JWT
+4. Bcrypt
+5. Clean Architecture
 
 ![clean-image](https://i.imgur.com/O6JMSux.png)
 
