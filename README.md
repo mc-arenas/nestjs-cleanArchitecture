@@ -22,7 +22,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Stack: [Nest](https://github.com/nestjs/nest), Sequelize (ORM), JWT.
+
+![clean-image](https://i.imgur.com/O6JMSux.png)
 
 
 ## Installation
